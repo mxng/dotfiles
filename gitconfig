@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hi@ngminxuan.com
+	name = Min Xuan Ng
